@@ -1,0 +1,88 @@
+.a
+{
+	 display: block;  
+      margin: 4vw;
+}    
+.a .b
+{
+	background:yellow;
+  border: 1px solid #2c2c2c;
+  border-radius: 100px;
+  box-shadow: 0px 3px 20px 2px #FF0000;
+  display: block;
+}
+
+.a .b .c{
+	color:black;
+	text-align:center;
+}
+
+
+.logingithub {
+    background-color:#eee;
+    color:#666;
+    padding:20px;
+    border-radius:10px;
+    position: absolute;
+    border:1px solid #fff;
+    margin-top: -50px;
+    width: 400px;
+    height: 250px;
+text-align: center;
+}
+
+
+
+.design
+{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px red;
+    margin-top: -10px;
+    
+}
+
+
+.container
+{
+    text-align: center;
+}
+
+.row{
+    text-align: center;
+
+}
+
+
+body
+{
+  background-image: linear-gradient(to left top, #17a2b8, #14abc4, #12b3d1, #11bcde, #12c5eb);
+    height: 150vh;
+}
+
+  #login .container #login-row #login-column .login-box {
+    margin-top: -115px;
+    max-width: 600px;
+    height: 180px;
+    border: 1px solid #9C9C9C;
+    background-image: linear-gradient(to bottom, #aec1c3, #a9b5b7, #bcc5c6, #cfd5d5, #e3e5e5);
+  }
+  #login .container #login-row #login-column .login-box #login-form {
+    padding: 20px;
+  }
+
+
+
+
+
+    
+  .st
+  {
+      margin-top: 377px;
+      text-align: center;
+  }
+
+  .fufu
+  {
+    color: red;
+  }
