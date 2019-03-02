@@ -1,0 +1,84 @@
+.class1
+{
+	 display: block;  
+      margin: 4vw;
+}    
+.class1 .class2
+{
+	background:#3B5998;
+  border: 1px solid #2c2c2c;
+  border-radius: 100px;
+  box-shadow: 0px 3px 20px 2px #FF0000;
+  display: block;
+}
+
+.class1 .class2 .class3{
+	color:white;
+	text-align:center;
+}
+.footer-design 
+{
+    text-align: center;
+    color: grey;
+}
+
+
+.logingithub {
+    background-color:#eee;
+    color:#666;
+    padding:20px;
+    border-radius:10px;
+    position: absolute;
+    border:1px solid #fff;
+    margin-top: -50px;
+    width: 400px;
+    height: 150px;
+text-align: center;
+}
+
+
+
+.design
+{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px red;
+    margin-top: -10px;
+    
+}
+
+
+.container
+{
+    text-align: center;
+}
+
+.row{
+    text-align: center;
+
+}
+
+
+
+  #login .container #login-row #login-column .login-box {
+    margin-top: -85px;
+    max-width: 600px;
+    height: 150px;
+    border: 1px solid #9C9C9C;
+    background-image: linear-gradient(to bottom, #aec1c3, #a9b5b7, #bcc5c6, #cfd5d5, #e3e5e5);
+  }
+  #login .container #login-row #login-column .login-box #login-form {
+    padding: 20px;
+  }
+
+
+.image-style
+{
+    text-align: center;
+    margin-top: -50px;
+    margin-right: 650px;
+}
+
+
+    
+ 
